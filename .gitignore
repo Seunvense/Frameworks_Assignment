@@ -1,5 +1,7 @@
-# Ignore large dataset
+# Ignore large datasets
 metadata.csv
+sample_metadata.csv
+cleaned_metadata.csv
 # Python cache
 __pycache__/
 *.pyc
